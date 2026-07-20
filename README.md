@@ -1,4 +1,4 @@
-# Python Practice — First Steps
+# Python Practice: First Steps
 
 A small collection of scripts I wrote to teach myself Python during school recess. I'm a second-year Software Development student (IIE Rosebank College) with a background in Java and C#, and wanted to see how the fundamentals carry over to a new language.
 
